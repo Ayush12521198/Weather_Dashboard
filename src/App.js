@@ -15,7 +15,7 @@ const App = () => {
 
   const fetchWeatherData = async (city) => {
     try {
-      const apiKey = 'a0aca8a89948154a4182dcecc780b513'; // Replace with your OpenWeatherMap API key
+      const apiKey = 'a0aca8a89948154a4182dcecc780b513'; 
 
       // Fetch current weather to get coordinates
       const weatherResponse = await axios.get(
