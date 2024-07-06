@@ -4,15 +4,9 @@ This is a simple weather application built with React.js. It allows users to sea
 Features
 
     Search for a city to get the current weather
-    Display weather information such as temperature, humidity, and weather conditions
+    Display weather information such as temperature, humidity,graph of 7 days forecast and weather conditions
     Responsive design
 
-Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-    Node.js and npm installed on your machine
-    An API key from a weather service provider (e.g., OpenWeatherMap)
 
 Installation
 
@@ -29,11 +23,6 @@ bash
 
 npm install
 
-Create a .env file in the root directory and add your weather API key:
-
-env
-
-    REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 Usage
 
