@@ -17,8 +17,7 @@ Clone the repository:
 
 Install the dependencies:
 
-npm install
-
+     npm install
 
 Usage
 
