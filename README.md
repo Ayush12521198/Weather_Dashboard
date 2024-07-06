@@ -12,7 +12,7 @@ Installation
 
 Clone the repository:
 
-     git clone https://github.com/your-username/weather-app.git
+     git clone https://github.com/Ayush12521198/Weather_Dashboard
      cd weather-app
 
 Install the dependencies:
