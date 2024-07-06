@@ -21,12 +21,10 @@ Install the dependencies:
 
 Usage
 
-    Start the development server:
+1.Start the development server:
 
-    bash
+     npm start
 
-npm start
+2.Open your browser and navigate to http://localhost:3000
 
-Open your browser and navigate to http://localhost:3000
-
-Enter a city name in the search bar and click the search button to get the weather information.
+3.Enter a city name in the search bar and click the search button to get the weather information.
