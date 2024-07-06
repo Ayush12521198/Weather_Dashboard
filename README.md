@@ -10,12 +10,10 @@ Features
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
-
-
-cd weather-app
+     git clone https://github.com/your-username/weather-app.git
+     cd weather-app
 
 Install the dependencies:
 
